@@ -1,0 +1,67 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "email": "admin@gmail.com",
+      "password": "admin123",
+      "profilepic": "",
+      "name": "Admin"
+    },
+    {
+      "empId": "101",
+      "name": "arya",
+      "email": "anjanajmani333@gmail.com",
+      "status": "1",
+      "id": "c-r_N2G"
+    },
+    {
+      "empId": "203",
+      "name": "adith",
+      "email": "adi@gmail.com",
+      "status": "0",
+      "id": "T8mfC-V"
+    },
+    {
+      "empId": "203",
+      "name": "zoya",
+      "email": "zoya@gmail.com",
+      "status": "1",
+      "id": "wFbNA03"
+    },
+    {
+      "empId": "100",
+      "name": "xaviour",
+      "email": "xaviour@gmail.com",
+      "status": "1",
+      "id": "NX-AvoN"
+    },
+    {
+      "empId": "123",
+      "name": "Arjun",
+      "email": "arjun@gmail.com",
+      "status": "1",
+      "id": "o1KK-bN"
+    },
+    {
+      "empId": "103",
+      "name": "kavya",
+      "email": "kavya@gmail.com",
+      "status": "1",
+      "id": "vQUPlQr"
+    },
+    {
+      "empId": "234",
+      "name": "arrav",
+      "email": "aarav@gmail.com",
+      "status": "1",
+      "id": "OOIkJFS"
+    },
+    {
+      "empId": "10",
+      "name": "dhyaan",
+      "email": "dhyaan@gmail.com",
+      "status": "1",
+      "id": "8aG4qMZ"
+    }
+  ]
+}
